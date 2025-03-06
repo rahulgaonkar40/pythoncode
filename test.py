@@ -1,3 +1,1 @@
-print("Wassup Buddy!! v09999")
-print("hi my name is raa")
-echo"hi"
+prin("Wassup Buddy!! v09999")
